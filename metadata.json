@@ -1,0 +1,6 @@
+{
+  "name": "軟綿蛋糕疊疊樂 Kawaii Cake Stack",
+  "description": "日系可愛風 2D 蛋糕疊疊樂手機遊戲，體驗鐘擺精準投放、硬派裁切與完美連擊粒子特效。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
